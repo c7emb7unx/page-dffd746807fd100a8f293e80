@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "815436ef2379826b0bc31f3c",
+  "owner": "c7emb7unx",
+  "repo": "page-dffd746807fd100a8f293e80",
+  "title": "河豚",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dffd746807fd100a8f293e80",
+      "a": "河豚",
+      "b": "",
+      "entity": "河豚",
+      "brand": "河豚",
+      "separator": "",
+      "path": "index.html",
+      "hash": "00628e5b4d8fd94a96ae3074346949066c62b8e4a07c1c486465ce392743aad5",
+      "content": {
+        "keyword1": "河豚",
+        "keyword2": "",
+        "primary_entity": "河豚",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "河豚提供基础、旗舰、团队三档高速流量套餐。100GB起、300GB优化、1000GB企业级。简洁稳定，随时连接。",
+          "AI_DESCRIPTION": "河豚提供基础、旗舰、团队三档高速流量套餐。100GB起、300GB优化、1000GB企业级。简洁稳定，随时连接。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--deepblue: #0a2540;--amber: #ffbf00}\n        * {margin:0;padding:0;box-sizing:border-box}\n        body {font-family: system-ui, -apple-system, sans-serif;background: var(--deepblue);color: #fff;line-height: 1.6}\n        nav {position: fixed;top: 0;width: 100%;z-index: 100;padding: 1rem 5%;background: rgba(10,37,64,0.95)}\n        nav a {color: var(--amber);text-decoration: none;margin: 0 1.5rem;font-size: 0.95rem}\n        header {height: 100vh;display: flex;align-items: center;position: relative}\n        .hero-grid {display: grid;grid-template-columns: 28% 72%;height: 100vh;max-width: 1400px;margin: 0 auto;padding: 0 5%}\n        .left {padding: 8% 0}\n        .left h1 {font-size: 4.2rem;line-height: 1.05;margin-bottom: 1.2rem;letter-spacing: -2px}\n        .left p {font-size: 1.35rem;max-width: 380px;opacity: 0.9}\n        .cta {margin-top: 2.5rem;display: flex;gap: 1rem}\n        .cta a {background: var(--amber);color: var(--deepblue);padding: 1rem 2.2rem;border-radius: 9999px;font-weight: 600;text-decoration: none;font-size: 1.05rem}\n        .right {background: radial-gradient(circle at 30% 20%, rgba(255,191,0,0.12) 0%, transparent 70%);display: flex;align-items: center;justify-content: center;padding: 4rem;position: relative}\n        .right::after {content: '';position: absolute;inset: 0;background: linear-gradient(135deg, transparent 40%, rgba(10,37,64,0.3) 100%)}\n        main {max-width: 1400px;margin: 0 auto;padding: 0 5%}\n        .plans {padding: 120px 0 80px}\n        .stair {display: flex;flex-direction: column;gap: 4rem;max-width: 820px;margin: 0 auto}\n        .plan {background: rgba(255,255,255,0.06);border-radius: 24px;padding: 2.8rem 3rem;transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);position: relative;overflow: hidden}\n        .plan:hover {transform: translateY(-12px);box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.4)}\n        .plan.basic {border-left: 5px solid #ffbf00}\n        .plan.featured {border: 3px solid var(--amber);transform: scale(1.04)}\n        .plan h3 {font-size: 1.85rem;margin-bottom: 0.6rem;display: flex;align-items: baseline;gap: 0.6rem}\n        .price {font-size: 2.1rem;font-weight: 700}\n        .features {display: flex;flex-direction: column;gap: 1rem;margin: 1.8rem 0}\n        .features li {display: flex;align-items: flex-start;gap: 0.8rem;font-size: 1.05rem}\n        .features li:before {content: '✓';color: var(--amber);font-size: 1.4rem}\n        .faq {padding: 100px 0 140px;background: rgba(10,37,64,0.4)}\n        .faq-group {max-width: 920px;margin: 0 auto 4.5rem}\n        .faq-group h3 {font-size: 1.55rem;margin-bottom: 2rem;padding-left: 1rem;border-left: 5px solid var(--amber)}\n        details {background: rgba(255,255,255,0.06);border-radius: 18px;margin-bottom: 1rem;overflow: hidden}\n        summary {padding: 1.4rem 2rem;font-weight: 600;cursor: pointer;list-style: none;display: flex;justify-content: space-between;align-items: center}\n        summary::-webkit-details-marker {display: none}\n        .answer {padding: 0 2rem 2rem;color: #ddd;font-size: 1.05rem}\n        footer {text-align: center;padding: 4rem 0 3rem;font-size: 0.9rem;opacity: 0.7}\n        @media (max-width: 860px) {\n            .hero-grid {grid-template-columns: 1fr;height: auto;min-height: 100vh}\n            .left {padding: 120px 5% 60px}\n            .right {height: 340px}\n            .stair {gap: 3rem}\n        }\n    </style><nav>\n        <a href=\"#plans\">套餐</a>\n        <a href=\"#faq\">常见问题</a>\n    </nav>\n\n    <header>\n        <div class=\"hero-grid\">\n            <div class=\"left\">\n                <h1>河豚</h1>\n                <p>每日高速流量 随时解锁自由</p>\n                <div class=\"cta\">\n                    <a href=\"#plans\">立即选购</a>\n                </div>\n            </div>\n            <div class=\"right\"></div>\n        </div>\n    </header>\n\n    <main>\n        <section id=\"plans\" class=\"plans\">\n            <h2>三档流量计划</h2>\n            <div class=\"stair\">\n                <div class=\"plan basic\">\n                    <h3>基础版 <span class=\"price\">¥15/月</span></h3>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"features\">\n                        <li>每月 100GB 高速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>普通节点池</li>\n                        <li>基础流媒体解锁</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan featured\">\n                    <h3>旗舰版 <span class=\"price\">¥35/月</span></h3>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 游戏加速</li>\n                        <li>7x24 优先支持</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan\">\n                    <h3>团队版 <span class=\"price\">¥85/月</span></h3>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"features\">\n                        <li>每月 1000GB 高速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 高带宽节点</li>\n                        <li>企业定制路由</li>\n                        <li>专属客户经理</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"faq\" class=\"faq\">\n            <div class=\"faq-group\">\n                <h3>流量与套餐</h3>\n                <details>\n                    <summary>流量如何计算？</summary>\n                    <div class=\"answer\">所有套餐按日历月计算。超量部分不计费。</div>\n                </details>\n                <details>\n                    <summary>年付方案更划算吗？</summary>\n                    <div class=\"answer\">年付可节省约 20% 费用。一次性支付更划算。</div>\n                </details>\n            </div>\n\n            <div class=\"faq-group\">\n                <h3>连接与设备</h3>\n                <details>\n                    <summary>支持几台设备同时使用？</summary>\n                    <div class=\"answer\">基础版限 3 台，旗舰版 5 台，团队版 20 台。</div>\n                </details>\n                <details>\n                    <summary>如何切换线路？</summary>\n                    <div class=\"answer\">打开客户端首页即可一键切换节点。</div>\n                </details>\n            </div>\n\n            <div class=\"faq-group\">\n                <h3>其他问题</h3>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <div class=\"answer\">Windows、macOS、iOS、Android 均可使用。路由器也可接入。</div>\n                </details>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        河豚 • 简洁 • 稳定 • 随时连接\n    </footer>",
+          "hash": "1b36ef12b9b604fa0209fa562367a9d2e5901da23dd39aa7c1623d8ee49f138e",
+          "seo": {
+            "title": "河豚 - 高速流量网络",
+            "keywords": "河豚,品牌介绍,套餐说明,客户端,常见问题",
+            "description": "河豚提供基础、旗舰、团队三档高速流量套餐。100GB起、300GB优化、1000GB企业级。简洁稳定，随时连接。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "9062",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lfj99z.cn",
+    "host": "p-37ec3c2e1d.lfj99z.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "24011d41c68ba89ff2837a95bbd7be08a043a0af7056e832a558fb7e7346caa5",
+    "sitemap.xml": "5029e6c351228c9eeb6d9097835c06955521634d80292766d4c95a5bab71e1de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2e77eb6dbc19a1e08de54a2fab15c9e4306e39060696f0e271ffdb8d0989a33a",
+    "robots.txt": "e0a3d35d191cbce28f4602d8fd8ffc54b6aa207ee6b3154387638e38ab2e09e7",
+    "ed1a6a49bb167877cfb6350847a5867e.txt": "b23760126eed62c41a85e538dc114946e2e0723bfcac4bb90f0687f509b97b1e"
+  },
+  "revision": "5dd74569d054d57a5f6650f4e78a8e053dc692a8d790f8e5eff5a5ad90475cc0"
+}
